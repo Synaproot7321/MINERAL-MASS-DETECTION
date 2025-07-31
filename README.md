@@ -1,8 +1,11 @@
 # 🪨 Mineral Mass Detection
+<p align="justify">
+      <em>NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect the presence of mineral material. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.</em>
+</p>
 
-*NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect the presence of mineral material. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.*
-
-This project implements a simple yet effective computer vision algorithm designed to **detect the presence of mineral material** on a conveyor belt using visual data from a camera. The goal is to provide a lightweight, non-invasive system to monitor belt occupancy and assist in process automation and decision-making.
+<p align="justify">
+This project implements a simple yet effective computer vision algorithm designed to <strong>detect the presence of mineral material</strong> on a conveyor belt using visual data from a camera. The goal is to provide a lightweight, non-invasive system to monitor belt occupancy and assist in process automation and decision-making.
+</p>
 
 ---
 
